@@ -1,4 +1,4 @@
-package com.arksana.fili.fili
+package com.arksana.fili
 
 import io.flutter.embedding.android.FlutterActivity
 

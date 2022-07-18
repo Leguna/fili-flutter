@@ -1,0 +1,5 @@
+name: fili
+
+packages:
+  - packages/**
+  - lib/**
